@@ -2,5 +2,4 @@
 
 HELLO WORLD!
 
-HELLO AI!
 
